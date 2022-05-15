@@ -1,4 +1,4 @@
-![alt text >](https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/Recursos/Imagenes/31%20(51).jpg)
+![alt text >](https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/Recursos/Imagenes/brainAD.png)
 ![alt text <](https://raw.githubusercontent.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/main/Recursos/Imagenes/Unir_2021_logo.svg)
 
 
