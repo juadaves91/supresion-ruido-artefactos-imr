@@ -1,4 +1,4 @@
-<div style="width: 100%;height: 167px;">
+<div style="width: 100%; height: 157px;">
   <img src="https://raw.githubusercontent.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/main/Recursos/Imagenes/Unir_2021_logo.svg" width="240"   height="240" align="right"/>
 </div>
 
