@@ -1,4 +1,5 @@
-![alt text](https://raw.githubusercontent.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/main/Recursos/Imagenes/Unir_2021_logo.svg)
+![alt text <](https://raw.githubusercontent.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/main/Recursos/Imagenes/Unir_2021_logo.svg)
+![alt text >](https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/Recursos/Imagenes/31%20(51).jpg)
 
 <div>
   <h1> Eliminación de ruido en imagenes de resonancia magnetica, mediante red neuronal convolucional (CNN)</h1>
