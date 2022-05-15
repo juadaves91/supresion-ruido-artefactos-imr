@@ -2,9 +2,9 @@
 
 # Eliminación de ruido en imagenes de resonancia magnetica, mediante red neuronal convolucional CNN
 
-## Juan David Escobar
-## Medellin, Colombia
-## 14 Julio de 2022
+<h3>Juan David Escobar</h3>
+<h3>Medellin, Colombia</h3>
+<h3>14 Julio de 2022</h3>
 
 
 
