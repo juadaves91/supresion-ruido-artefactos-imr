@@ -3,7 +3,8 @@
 
 
 <div>
-  <h1> Eliminación de ruido en imagenes de resonancia magnetica, mediante red neuronal convolucional (CNN)</h1>
+  <h1> Deep Learning en el diagnostico de Alzheimer mediante Imágenes de Resonancia Magnética
+</h1>
 
   <h4>Juan David Escobar</h4>
   <h4>14 Julio de 2022</h4>
