@@ -18,7 +18,7 @@ height="400"
 alt="Red Neuronal CNN Deep Learning"
 />  
 </div>  
----
+---------------------------------------
 
 <div>
 <h4>Requisitos</h4>
