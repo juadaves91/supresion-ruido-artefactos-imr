@@ -13,3 +13,9 @@
 
 
 
+<div>
+<h4>Fuente de datos</h4>
+
+Datos tomados desde https://adni.loni.usc.edu/about/
+Estos datos fueron tomados con propósito investigativo y aporte científico para la comunidad de Neuro radiología.
+</div>
