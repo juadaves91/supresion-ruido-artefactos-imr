@@ -4,7 +4,7 @@
 
 <div>
   <h1> Deep Learning en el diagnostico de Alzheimer mediante Imágenes de Resonancia Magnética</h1>
-  <hr/>
+ 
   <h4>Juan David Escobar</h4>
   <h4>14 Julio de 2022</h4>
   <h4>Medellin, Colombia</h4>
@@ -19,7 +19,7 @@ height="400"
 alt="Red Neuronal CNN Deep Learning"
 />  
 </div>  
-
+***
 
 
 <div>
