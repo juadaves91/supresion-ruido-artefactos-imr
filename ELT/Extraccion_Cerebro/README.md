@@ -10,7 +10,7 @@
 
 
 <div>
-<img src="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/9c3594927eda053dd967026fbf8693584e7f9408/Recursos/Imagenes/Extraccion_cerebro.PNG" width="400"
-height="341" alt="Proceso de extracción del cerebro en IMR">
+<img src="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/9c3594927eda053dd967026fbf8693584e7f9408/Recursos/Imagenes/Extraccion_cerebro.PNG" width="900"
+height="800" alt="Proceso de extracción del cerebro en IMR">
 </div>
 
