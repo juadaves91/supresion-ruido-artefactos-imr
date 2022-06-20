@@ -22,8 +22,8 @@ alt="Red Neuronal CNN Deep Learning"
 
 <hr/>
 
+<b style="text-align:center;display:inline-block">Proceso de extracción del cerebro en IMR (NIFTI)</b> 
 <div style="text-align:center">
-  <p><h3 style="text-align:center;display:inline-block">Proceso de extracción del cerebro en IMR (NIFTI)</h3> </p>
 <img
 src="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/9c3594927eda053dd967026fbf8693584e7f9408/Recursos/Imagenes/Extraccion_cerebro.PNG"
 width="1100"
