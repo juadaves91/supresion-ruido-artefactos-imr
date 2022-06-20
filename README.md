@@ -8,7 +8,7 @@
   <h4>14 Julio de 2022</h4>
   <h4>Medellin, Colombia</h4>
 </div>
-<hr style="height:1px; width:100%; border-width:0; color:gray; background-color:gray">
+<hr style="height:0.3px; width:100%; border-width:0; color:gray; background-color:gray">
 
 <div>
 <img
