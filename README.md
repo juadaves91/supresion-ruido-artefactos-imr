@@ -11,7 +11,7 @@
 </div>
 
 ***
-<div style="text-align:center">
+<div>
 <img
 src="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/0c93712c2413ae75a960dcc8cf511ef0110d7300/Recursos/Imagenes/RedNeuronalCNNDL.png"
 width="1100"
@@ -22,12 +22,12 @@ alt="Red Neuronal CNN Deep Learning"
 
 <hr/>
 
-<div>
-  <h3 style="text-align:center;display:inline-block">Proceso de extracción del cerebro en IMR (NIFTI)</h3>  
+<div style="text-align:center">
+  <p><h3 style="text-align:center;display:inline-block">Proceso de extracción del cerebro en IMR (NIFTI)</h3> </p>
 <img
 src="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/9c3594927eda053dd967026fbf8693584e7f9408/Recursos/Imagenes/Extraccion_cerebro.PNG"
 width="1100"
-height="400"
+height="450"
 alt="Proceso de extracción del cerebro en IMR"
 />
 </div>
