@@ -34,13 +34,22 @@
 <li>Configurar e instalar Kernel para hacer uso de la capacidad de cómputo a disposición (GPU x 3 - Asus Radeon RX 470), la cual se encuentra detallada en el Anexo I. Configuración GPU y entorno virtual (Anaconda). Cabe mencionar que Tensorflow es compatible principalmente con tarjetas gráficas de marca NVIDIA, por lo cual se tuvo que instalar un paquete desarrollado por Microsoft para utilizar GPU de diferente fabricante, dicha librería se llama tensorflow-directml (https://docs.microsoft.com/en-us/windows/ai/directml/gpu-tensorflow-windows).</li>
 </ol>
 </p>
-  
 <h5>Configuración Kernel para GPU con <a href="https://docs.microsoft.com/en-us/windows/ai/directml/gpu-tensorflow-windows">tensorflow-directml</a></h5>
-  
   <p>Para configurar el kernel de ejecución en Jupyter Notebooks, debe llevar a cabo las instrucciones que se encuentran descritas en el Notebook:
   <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/fb0537c6e1b1e7a07d32595795c2c4b380d238b5/ELT/0.%20Configuracion%20GPU%20y%20entorno%20virtual%20(Anaconda).ipynb"> 0. Configuracion GPU y entorno virtual (Anaconda).ipynb </a>.
 </p>
-  
+</div>
+
+<div>
+  <ol>
+  <li>Activar Kernel para hacer uso de GPU’s.</li>
+  <li>Importar librerías requeridas.</li>
+  <li>Definir conjuntos de datos con el formato requerido para cada modelo de Keras (entrenamiento, pruebas y validación).</li>
+  <li>Construcción y entrenamiento del modelo.</li>
+  <li>Predicción.</li>
+  <li>Validación de precisión (matriz de confusión, métricas y gráficos de rendimiento).</li>
+  <li>Afinar modelo pre entrenado y repetir pasos 4, 5 y 6.</li>
+</ol>
 </div>
 
 <div>
