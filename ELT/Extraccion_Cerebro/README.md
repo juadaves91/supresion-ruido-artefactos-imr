@@ -42,7 +42,7 @@ El método desarrollado en el lenguaje R, mediante guía (https://johnmuschelli.
 <img
 src="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/9c3594927eda053dd967026fbf8693584e7f9408/Recursos/Imagenes/Extraccion_cerebro.PNG"
 width="1100"
-height="800"
+height="700"
 alt="Proceso de extracción del cerebro en IMR"
 />
 </div>
