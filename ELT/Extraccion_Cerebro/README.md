@@ -3,8 +3,17 @@
 <div>
 <h1> Deep Learning en el diagnostico de Alzheimer mediante Imágenes de Resonancia Magnética</h1>
 
-<h4>Extracción de cerebro en imagenes .NIFTI</h4>
+<h2>Extracción de cerebro en imagenes .NIFTI</h2>
+  
+<b>Requisitos<b>
+•	Sistema operativo macOS, Linux o Windows con WSL 1.8.04.
+•	R-Studio (https://www.rstudio.com/products/rstudio/download/).
+•	R – Project versión 4.0.0 (https://cran.r-project.org/bin/macosx/old/).
+•	Aplicación FSL (https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation).
 
+
+  
+  
 </div>
 
 
