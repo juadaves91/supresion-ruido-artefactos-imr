@@ -12,10 +12,10 @@
 
 <div>
 <img
-src="[https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/9c3594927eda053dd967026fbf8693584e7f9408/Recursos/Imagenes/Extraccion_cerebro.PNG](https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/55ee0319dc33730c9bdc3af74390ddb1c75ae630/Recursos/Imagenes/RedNeuronalCNNDL.png)"
+src="[Recursos/Imagenes/RedNeuronalCNNDL.png](https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/0c93712c2413ae75a960dcc8cf511ef0110d7300/Recursos/Imagenes/RedNeuronalCNNDL.png)"
 width="1100"
 height="400"
-alt="Proceso de extracción del cerebro en IMR"
+alt="Red Neuronal CNN Deep Learning"
 />  
   
 </div>  
