@@ -20,7 +20,7 @@ alt="Red Neuronal CNN Deep Learning"
 />  
 </div>  
 
-</hr>
+<hr/>
 
 
 <div>
