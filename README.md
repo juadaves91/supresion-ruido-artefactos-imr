@@ -12,11 +12,13 @@
 
 <div>
 <img
-src="[Recursos/Imagenes/RedNeuronalCNNDL.png](https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/0c93712c2413ae75a960dcc8cf511ef0110d7300/Recursos/Imagenes/RedNeuronalCNNDL.png)"
+src="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/0c93712c2413ae75a960dcc8cf511ef0110d7300/Recursos/Imagenes/RedNeuronalCNNDL.png"
 width="1100"
 height="400"
 alt="Red Neuronal CNN Deep Learning"
 />  
+  
+  
   
 </div>  
 
