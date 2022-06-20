@@ -19,7 +19,8 @@ height="400"
 alt="Red Neuronal CNN Deep Learning"
 />  
 </div>  
-***
+
+</hr>
 
 
 <div>
