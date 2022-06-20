@@ -9,6 +9,7 @@
   <h4>14 Julio de 2022</h4>
   <h4>Medellin, Colombia</h4>
 </div>
+<hr>
 
 <div>
 <img
@@ -17,9 +18,6 @@ width="1100"
 height="400"
 alt="Red Neuronal CNN Deep Learning"
 />  
-  
-  
-  
 </div>  
 
 
