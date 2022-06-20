@@ -47,7 +47,10 @@ alt="Proceso de extracción del cerebro en IMR"
 />
 </div>
 
-<div>
+
+<br/>
+<div>  
+<h4>Referencias bibliográficas</h4>  
 <p>
 Jenkinson M, Beckmann CF, Behrens TE, Woolrich MW, Smith SM (2012). “FSL.” Neuroimage, 62(2), 782-790.
 </p>
