@@ -23,11 +23,11 @@ alt="Red Neuronal CNN Deep Learning"
 <hr/>
 
 
-<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/tree/main/ELT/Extraccion_Cerebro"><b >Proceso de extracción del cerebro en IMR (NIFTI)</b> <a/>
+
 
 <div style="text-align:center">
 <img
-src="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/9c3594927eda053dd967026fbf8693584e7f9408/Recursos/Imagenes/Extraccion_cerebro.PNG"
+src="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/8d9ca54882eeec81c90d0016718740d0e243c923/Recursos/Imagenes/Flujo%20de%20datos.png"
 width="1100"
 height="450"
 alt="Proceso de extracción del cerebro en IMR"
@@ -35,7 +35,8 @@ alt="Proceso de extracción del cerebro en IMR"
 </div>
 <hr/>
 
-
+<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/tree/main/ELT/Extraccion_Cerebro"><b >Proceso de extracción del cerebro en IMR (NIFTI)</b> <a/>
+  
 <div>
 <h4>Requisitos</h4>
 <ul>
