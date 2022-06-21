@@ -91,5 +91,5 @@ alt="Proceso de extracción del cerebro en IMR"
 <div>
 <h4>Fuente de datos</h4>
 <p>Datos tomados de <a href="https://adni.loni.usc.edu/about/">https://adni.loni.usc.edu/about/</a></br>
-Estos datos fueron tomados con propósito investigativo y aporte científico para la comunidad de Neuro radiología.</p>
+El acceso a los datos por ADNI de caracter y propósito investigativo y aporte científico para la comunidad de Neuro radiología. La información proporcionada es confidencial, motivo por el cual no se sube ninguna imagen proporcionada por el instituto. Agradecimientos a ADNI por poner a disposición de la comunidad cientifica el acceso al repositorio de imagenes medicas y aportar al avance medico y técnologico.</p>
 </div>
