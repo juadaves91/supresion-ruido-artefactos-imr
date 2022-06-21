@@ -14,7 +14,7 @@
 <div>
 <img
 src="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/0c93712c2413ae75a960dcc8cf511ef0110d7300/Recursos/Imagenes/RedNeuronalCNNDL.png"
-width="1100"
+width="1200"
 height="400"
 alt="Red Neuronal CNN Deep Learning"
 />  
@@ -22,20 +22,32 @@ alt="Red Neuronal CNN Deep Learning"
 
 <hr/>
 
-
-
-
 <div style="text-align:center">
 <img
 src="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/8d9ca54882eeec81c90d0016718740d0e243c923/Recursos/Imagenes/Flujo%20de%20datos.png"
-width="1100"
-height="450"
+width="1200"
+height="470"
 alt="Proceso de extracción del cerebro en IMR"
 />
 </div>
 <hr/>
 
+<div>
+  <h3>Flujo de datos</h3>
+  
+1. Extracción de datos
 <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/tree/main/ELT/Extraccion_Cerebro"><b >Proceso de extracción del cerebro en IMR (NIFTI)</b> <a/>
+2. Extracción de cerebro (IMR, Formato NIFTI)
+3. Transformación (pre-procesamiento Imágenes de resonancia magnética)
+4. Homogenizar y preparar conjuntos de datos procesados
+5. Construcción modelos pre-entredados (Tensorflow - Keras)
+
+
+
+  
+</div>
+
+
   
 <div>
 <h4>Requisitos</h4>
