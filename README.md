@@ -37,7 +37,7 @@ alt="Proceso de extracción del cerebro en IMR"
   
 1. Extracción de datos, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/1.%20Extraccion_Imagenes_Nifti_A_Jpg.ipynb)">Extraccion_Imagenes_Nifti_A_Jpg.ipynb<a/>)
 2. Extracción de cerebro (IMR, Formato NIFTI), ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/tree/main/ELT/Extraccion_Cerebro">Proceso de extracción del cerebro en IMR (NIFTI)<a/>)
-3. Transformación (pre-procesamiento Imágenes de resonancia magnética), ver en ( <a href="(https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/prepocesamiento_helper.ipynb">Proceso de extracción del cerebro en IMR (NIFTI)<a/>)
+3. Transformación (pre-procesamiento Imágenes de resonancia magnética), ver en ( <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/prepocesamiento_helper.ipynb">prepocesamiento_helper<a/>)
 4. Homogenizar y preparar conjuntos de datos procesados
 5. Construcción modelos pre-entredados (Tensorflow - Keras)
 
