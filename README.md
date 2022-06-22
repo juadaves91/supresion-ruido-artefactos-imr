@@ -103,7 +103,7 @@ El acceso a los datos por ADNI de carácter y propósito investigativo y aporte 
 
 <h4>Sección de Métodos:</h4>
 <p style="text-align: justify;">
-Los datos utilizados en la preparación de este artículo se obtuvieron de la base de datos de la Iniciativa de neuroimagen de la enfermedad de Alzheimer (ADNI) (adni.loni.usc.edu). El ADNI se lanzó en 2003 como una asociación público-privada, dirigida por el investigador principal Michael W. Weiner, MD. El objetivo principal de ADNI ha sido probar si la resonancia magnética nuclear (RMN) en serie, la tomografía por emisión de positrones (PET), otros marcadores biológicos y la evaluación clínica y neuropsicológica se pueden combinar para medir la progresión del deterioro cognitivo leve (DCL) y el deterioro cognitivo temprano. Enfermedad de Alzheimer (EA).
+Los datos utilizados en la preparación de este artículo se obtuvieron de la base de datos de la Iniciativa de neuroimagen de la enfermedad de Alzheimer (<b>ADNI</b>) (adni.loni.usc.edu). El ADNI se lanzó en 2003 como una asociación público-privada, dirigida por el investigador principal Michael W. Weiner, MD. El objetivo principal de ADNI ha sido probar si la resonancia magnética nuclear (RMN) en serie, la tomografía por emisión de positrones (PET), otros marcadores biológicos y la evaluación clínica y neuropsicológica se pueden combinar para medir la progresión del deterioro cognitivo leve (DCL) y el deterioro cognitivo temprano. Enfermedad de Alzheimer (EA).
 <p>
 
 <h4>Sección de agradecimientos:</h4>
