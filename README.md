@@ -39,18 +39,26 @@ alt="Proceso de extracción del cerebro en IMR"
 <h3>Ìndice</h3>
 <h4>Flujo de datos (ETL)</h4>  
 <div>
-1. Extracción de datos, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/1.%20Extraccion_Imagenes_Nifti_A_Jpg.ipynb)">Extraccion_Imagenes_Nifti_A_Jpg<a/>)
-2. Extracción de cerebro -  (IMR, Formato NIFTI), ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/tree/main/ELT/Extraccion_Cerebro">Proceso de extracción del cerebro en IMR (NIFTI)<a/>)
-3. Transformación (pre-procesamiento Imágenes de resonancia magnética), ver en ( <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/prepocesamiento_helper.ipynb">prepocesamiento_helper<a/>)
-4. Homogenizar y preparar conjuntos de datos procesados, ver en ( <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/a95788f1f979d54e2794a582a9bc5f551e0dadd2/ELT/2.%20Preparacion_Conjuntos_De_Datos.ipynb">Preparacion_Conjuntos_De_Datos<a/>)
-5. Construcción modelos pre-entredados (Tensorflow - Keras), ver en ( <a href="[http://localhost:8890/notebooks/TFM/Notebooks/ELT/Helpers/seleccion_modelo_keras_helper.ipynb](https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/prepocesamiento_helper.ipynb)">seleccion_modelo_keras_helper<a/>, <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/3.%20red_neuronal_cnn_deteccion_alzheimer_VGG16.ipynb">red_neuronal_cnn_deteccion_alzheimer_VGG16<a/>,  <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/4.%20red_neuronal_cnn_deteccion_alzheimer_MobileNet.ipynb">red_neuronal_cnn_deteccion_alzheimer_MobileNet<a/>,  <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/5.%20red_neuronal_cnn_deteccion_alzheimer_Xception.ipynb">red_neuronal_cnn_deteccion_alzheimer_Xception<a/>,  <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/6.%20red_neuronal_cnn_deteccion_alzheimer_RestNet.ipynb">red_neuronal_cnn_deteccion_alzheimer_RestNet<a/>)  
+<ol type="1">
+	<li>Extracción de datos, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/1.%20Extraccion_Imagenes_Nifti_A_Jpg.ipynb)">Extraccion_Imagenes_Nifti_A_Jpg<a/>)</li>
+	<li>Extracción de cerebro -  (IMR, Formato NIFTI), ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/tree/main/ELT/Extraccion_Cerebro">Proceso de extracción del cerebro en IMR (NIFTI)<a/>) 2</li>
+	<li>Transformación (pre-procesamiento Imágenes de resonancia magnética), ver en ( <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/prepocesamiento_helper.ipynb">prepocesamiento_helper<a/>)</li>
+<li>Homogenizar y preparar conjuntos de datos procesados, ver en ( <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/a95788f1f979d54e2794a582a9bc5f551e0dadd2/ELT/2.%20Preparacion_Conjuntos_De_Datos.ipynb">Preparacion_Conjuntos_De_Datos<a/>)</li>
+<li>Construcción modelos pre-entredados (Tensorflow - Keras), ver en ( <a href="[http://localhost:8890/notebooks/TFM/Notebooks/ELT/Helpers/seleccion_modelo_keras_helper.ipynb](https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/prepocesamiento_helper.ipynb)">seleccion_modelo_keras_helper<a/>, <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/3.%20red_neuronal_cnn_deteccion_alzheimer_VGG16.ipynb">red_neuronal_cnn_deteccion_alzheimer_VGG16<a/>,  <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/4.%20red_neuronal_cnn_deteccion_alzheimer_MobileNet.ipynb">red_neuronal_cnn_deteccion_alzheimer_MobileNet<a/>,  <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/5.%20red_neuronal_cnn_deteccion_alzheimer_Xception.ipynb">red_neuronal_cnn_deteccion_alzheimer_Xception<a/>,  <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/6.%20red_neuronal_cnn_deteccion_alzheimer_RestNet.ipynb">red_neuronal_cnn_deteccion_alzheimer_RestNet<a/>)</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>    
 </div>
   
 <h4>Notebooks Auxiliares (Helpers)</h4>  
 <div>
-1. Preprocesamiento_helper, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/Preprocesamiento_helper.ipynb">Preprocesamiento_helper<a/>)
-2. Segmentación_cerebro, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/Segmentacio%CC%81n_cerebro.ipynb">Segmentación_cerebro<a/>)
-3. Selección_modelo_keras_helper, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/Seleccio%CC%81n_modelo_keras_helper.ipynb">Selección_modelo_keras_helper<a/>)  
+</ol> 
+<li>Preprocesamiento_helper, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/Preprocesamiento_helper.ipynb">Preprocesamiento_helper<a/>)</li>
+<li>Segmentación_cerebro, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/Segmentacio%CC%81n_cerebro.ipynb">Segmentación_cerebro<a/>)</li>
+<li>Selección_modelo_keras_helper, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/Seleccio%CC%81n_modelo_keras_helper.ipynb">Selección_modelo_keras_helper<a/>)  </li>
+</ol>  
 </div>
   
 <div>
