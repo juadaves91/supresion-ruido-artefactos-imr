@@ -27,7 +27,7 @@ alt="Red Neuronal CNN Deep Learning"
 <img
 src="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/8d9ca54882eeec81c90d0016718740d0e243c923/Recursos/Imagenes/Flujo%20de%20datos.png"
 width="1200"
-height="520"
+height="600"
 alt="Proceso de extracción del cerebro en IMR"
 />
 </div>
