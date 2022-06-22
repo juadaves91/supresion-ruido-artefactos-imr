@@ -9,7 +9,8 @@
   <h4>Juan David Escobar</h4>
   <h4>14 Julio de 2022</h4>
   <h4>Medellin, Colombia</h4>
-  <h4>Redes sociales: <a href="https://www.linkedin.com/in/jdescobar/">LinkedIn</a>,  <a href="https://www.linkedin.com/in/jdescobar/">Instagram</a> </h4>
+  <h4>Redes sociales: <a href="https://www.linkedin.com/in/jdescobar/">LinkedIn</a>,  <a href="https://www.linkedin.com/in/jdescobar/">Instagram</a>, <a href="https://twitter.com/davis1148">Twitter</a>
+  </h4>
 </div>
 
 ***
