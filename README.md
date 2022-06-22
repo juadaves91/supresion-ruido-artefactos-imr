@@ -58,7 +58,7 @@ alt="Proceso de extracción del cerebro en IMR"
 </div>
   
 <div>
-<h4>Requisitos</h4>
+<h3>Requisitos</h3>
 <ul>
 <li>Sistema operativo Linux o Windows  con WSL 1.8.04</li>
 <li>Anaconda (https://www.anaconda.com/)</li>  
@@ -74,7 +74,7 @@ alt="Proceso de extracción del cerebro en IMR"
 </div>
 
 <div>
-  <h4>Requisitos y configuración</h4>
+  <h3>Requisitos y configuración</h3>
   
 <p style="text-align: justify;">
 <ol>
@@ -101,7 +101,7 @@ alt="Proceso de extracción del cerebro en IMR"
 </div>
 
 <div>
-<h4>Fuente de datos</h4>
+<h3>Fuente de datos</h3>
 <p>Datos tomados de <a href="https://adni.loni.usc.edu/about/">https://adni.loni.usc.edu/about/</a></br>
 El acceso a los datos por ADNI de carácter y propósito investigativo y aporte científico para la comunidad de Neuro radiología. La información proporcionada es confidencial, motivo por el cual no se sube ninguna imagen proporcionada por el instituto. Agradecimiento especial a ADNI por poner a disposición de la comunidad científica el acceso al repositorio de imágenes médicas y aportar al avance médico y tecnológico.</p>
 
@@ -110,12 +110,12 @@ El acceso a los datos por ADNI de carácter y propósito investigativo y aporte 
 *Los datos utilizados en la preparación de este artículo se obtuvieron de la base de datos de la Iniciativa de neuroimagen de la enfermedad de Alzheimer (ADNI) (adni.loni. usc.edu). Como tal, los investigadores dentro de ADNI contribuyeron al diseño e implementación de ADNI y/o proporcionaron datos pero no participaron en el análisis o redacción de este informe. Puede encontrar una lista completa de los investigadores de ADNI en: <a href="http://adni.loni.usc.edu/wp-content/uploads/how_to_apply/ADNI_Acknowledgement_List.pdf">http://adni.loni.usc.edu/wp-content/uploads/how_to_apply/ADNI_Acknowledgement_List.pdf</a>
 </p>
 
-<h4>Sección de Métodos:</h4>
+<h3>Sección de Métodos:</h3>
 <p style="text-align: justify;">
 Los datos utilizados en la preparación de este artículo se obtuvieron de la base de datos de la Iniciativa de neuroimagen de la enfermedad de Alzheimer (<b>ADNI</b>) (adni.loni.usc.edu). El ADNI se lanzó en 2003 como una asociación público-privada, dirigida por el investigador principal Michael W. Weiner, MD. El objetivo principal de ADNI ha sido probar si la resonancia magnética nuclear (RMN) en serie, la tomografía por emisión de positrones (PET), otros marcadores biológicos y la evaluación clínica y neuropsicológica se pueden combinar para medir la progresión del deterioro cognitivo leve (DCL) y el deterioro cognitivo temprano. Enfermedad de Alzheimer (EA).
 <p>
 
-<h4>Sección de agradecimientos:</h4>
+<h3>Sección de agradecimientos:</h3>
 <p style="text-align: justify;">
 La recopilación y el intercambio de datos para este proyecto fueron financiados por la Iniciativa de neuroimagen de la enfermedad de Alzheimer (ADNI) (Institutos Nacionales de Salud Subvención U01 AG024904) y el premio del Departamento de Defensa DOD ADNI número W81XWH-12-2-0012). ADNI está financiado por el Instituto Nacional sobre el Envejecimiento, el Instituto Nacional de Imágenes Biomédicas y Bioingeniería, y gracias a las generosas contribuciones de los siguientes: AbbVie, Asociación de Alzheimer; Fundación de Descubrimiento de Drogas de Alzheimer; Araclon Biotecnología; BioClínica, Inc.; Biogen; Compañía Bristol-Myers Squibb; CereSpir, Inc.; Cogestado; Eisai Inc.; Elan productos farmacéuticos, Inc.; Eli Lilly y Compañía; EuroImmun; F. Hoffmann-La Roche Ltd y su empresa afiliada Genentech, Inc.; fujirebio; atención médica de GE; IXICO Ltda.; Janssen Alzheimer Immunotherapy Research & Development, LLC.; Johnson & Johnson Investigación y Desarrollo Farmacéutico LLC.; luminosidad; lundbeck; Merck & Co., Inc.; Diagnósticos de escala meso, LLC.; Investigación NeuroRx; Tecnologías Neurotrack; Corporación Farmacéutica Novartis; Pfizer Inc.; imágenes piramales; Servier; Compañía Farmacéutica Takeda; y Terapéutica de Transición. Los Institutos Canadienses de Investigación en Salud están proporcionando fondos para apoyar los sitios clínicos de ADNI en Canadá. Las contribuciones del sector privado son facilitadas por la Fundación para los Institutos Nacionales de Salud (www.fnih.org). La organización beneficiaria es el Instituto de Investigación y Educación del Norte de California, y el estudio está coordinado por el Instituto de Investigación Terapéutica del Alzheimer de la Universidad del Sur de California. Los datos de ADNI son difundidos por el Laboratorio de Neuroimagen de la Universidad del Sur de California.
 </p>
