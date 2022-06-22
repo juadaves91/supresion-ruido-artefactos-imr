@@ -69,7 +69,7 @@ alt="Proceso de extracción del cerebro en IMR"
   
 <p style="text-align: justify;">
 <ol>
-<li>Creación de entorno virtual en la aplicación Anaconda e instalación de las librerías requeridas.</li>
+<li>Creación de entorno virtual en la aplicación Anaconda e instalación de las librerías requeridas (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/requirements.txt">requirements.txt</a>).</li>
 <li>Configurar e instalar Kernel para hacer uso de la capacidad de cómputo a disposición (GPU x 3 - Asus Radeon RX 470), la cual se encuentra detallada en el Anexo I. Configuración GPU y entorno virtual (Anaconda). Cabe mencionar que Tensorflow es compatible principalmente con tarjetas gráficas de marca NVIDIA, por lo cual se tuvo que instalar un paquete desarrollado por Microsoft para utilizar GPU de diferente fabricante, dicha librería se llama tensorflow-directml (https://docs.microsoft.com/en-us/windows/ai/directml/gpu-tensorflow-windows).</li>
 </ol>
 </p style="text-align: justify;">
