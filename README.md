@@ -37,6 +37,14 @@ alt="Proceso de extracción del cerebro en IMR"
 
 
 <h3>Ìndice</h3>
+
+<h4>Notebooks de configuración(Entorno virtual, GPUs y Tensorflow-Direct-ML)</h4>  
+<div>
+<ol type="1">
+	<li>Configuración GPUs y entorno virtual Python, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/0_Configuracio%CC%81n_GPU_%20y_entorno_virtual_(Anaconda).ipynb">Configuración GPUs y entorno virtual Python<a/>)</li>
+</ol>    
+</div>
+		
 <h4>Notebooks Flujo de datos (ETL)</h4>  
 <div>
 <ol type="1">
