@@ -55,7 +55,7 @@ alt="Proceso de extracción del cerebro en IMR"
 <li>Red Neuronal CNN (Xception), ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/5_Red_neuronal_cnn_deteccio%CC%81n_alzheimer_Xception.ipynb">Red_neuronal_cnn_deteccion_alzheimer_Xception<a/>)</li>
 <li>Red Neuronal CNN (ResNet152), ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/6_Red_neuronal_cnn_deteccion_alzheimer_RestNet.ipynb">Red_neuronal_cnn_deteccion_alzheimer_RestNet<a/>)</li>
 </ol>    
-</div>
+</div> 
 
   
 <h4>Notebooks Auxiliares (Helpers)</h4>  
