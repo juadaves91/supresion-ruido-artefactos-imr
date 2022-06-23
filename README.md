@@ -61,10 +61,10 @@ alt="Proceso de extracción del cerebro en IMR"
 <h4>Notebooks Auxiliares (Helpers)</h4>  
 <div>
 <ol type="1"> 
-<li>Preprocesamiento_helper, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/Preprocesamiento_helper.ipynb">Preprocesamiento_helper<a/>)</li>
-<li>Segmentación_cerebro, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/Segmentacio%CC%81n_cerebro.ipynb">Segmentación_cerebro<a/>)</li>
-<li>Selección_modelo_keras_helper, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/Seleccio%CC%81n_modelo_keras_helper.ipynb">Selección_modelo_keras_helper<a/>)  </li>
-<li>Sqlite_helper, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/sqllite_helper.ipynb">Sqlite_helper<a/>)  </li>
+<li>Preprocesamiento de imagenes (IMR), ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/Preprocesamiento_helper.ipynb">Preprocesamiento_helper<a/>)</li>
+<li>Segmentación cerebro, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/Segmentacio%CC%81n_cerebro.ipynb">Segmentación_cerebro<a/>)</li>
+<li>Selección modelo Keras, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/Seleccio%CC%81n_modelo_keras_helper.ipynb">Selección_modelo_keras_helper<a/>)  </li>
+<li>Sqlite helper, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/sqllite_helper.ipynb">Sqlite_helper<a/>)  </li>
 </ol>  
 </div>
   
