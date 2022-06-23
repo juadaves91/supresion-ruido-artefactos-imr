@@ -41,7 +41,7 @@ alt="Proceso de extracción del cerebro en IMR"
 <div>
 <ol type="1">
 	<li>Extracción de datos, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/1.%20Extraccion_Imagenes_Nifti_A_Jpg.ipynb)">Extraccion_Imagenes_Nifti_A_Jpg<a/>)</li>
-	<li>Extracción de cerebro -  (IMR, Formato NIFTI), ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/tree/main/ELT/Extraccion_Cerebro">Proceso de extracción del cerebro en IMR (NIFTI)<a/>) 2</li>
+	<li>Extracción de cerebro - (IMR, Formato NIFTI (LENGUAJE R)), ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/tree/main/ELT/Extraccion_Cerebro">Proceso de extracción del cerebro en IMR (NIFTI)<a/>) </li>
 	<li>Transformación (pre-procesamiento Imágenes de resonancia magnética), ver en ( <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/prepocesamiento_helper.ipynb">prepocesamiento_helper<a/>)</li>
 <li>Homogenizar y preparar conjuntos de datos procesados, ver en ( <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/a95788f1f979d54e2794a582a9bc5f551e0dadd2/ELT/2.%20Preparacion_Conjuntos_De_Datos.ipynb">Preparacion_Conjuntos_De_Datos<a/>)</li>
 </ol>    
@@ -64,6 +64,7 @@ alt="Proceso de extracción del cerebro en IMR"
 <li>Preprocesamiento_helper, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/Preprocesamiento_helper.ipynb">Preprocesamiento_helper<a/>)</li>
 <li>Segmentación_cerebro, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/Segmentacio%CC%81n_cerebro.ipynb">Segmentación_cerebro<a/>)</li>
 <li>Selección_modelo_keras_helper, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/Seleccio%CC%81n_modelo_keras_helper.ipynb">Selección_modelo_keras_helper<a/>)  </li>
+<li>Selección_modelo_keras_helper, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/sqllite_helper.ipynb">Sqlite_helper<a/>)  </li>
 </ol>  
 </div>
   
