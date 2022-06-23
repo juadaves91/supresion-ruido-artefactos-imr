@@ -50,10 +50,10 @@ alt="Proceso de extracción del cerebro en IMR"
 <h4>Notebooks Modelos pre-entredados (Tensorflow - Keras Redes Neuronales CNN)</h4>  
 <div>
 <ol type="1">
-<li>Red Neuronal CNN (VGG16), ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/3.%20red_neuronal_cnn_deteccion_alzheimer_VGG16.ipynb">red_neuronal_cnn_deteccion_alzheimer_VGG16<a/>)</li>
-<li>Red Neuronal CNN (MobileNet), ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/4.%20red_neuronal_cnn_deteccion_alzheimer_MobileNet.ipynb">red_neuronal_cnn_deteccion_alzheimer_MobileNet<a/>)</li>
-<li>Red Neuronal CNN (Xception), ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/5.%20red_neuronal_cnn_deteccion_alzheimer_Xception.ipynb">red_neuronal_cnn_deteccion_alzheimer_Xception<a/>)</li>
-<li>Red Neuronal CNN (ResNet152), ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/6.%20red_neuronal_cnn_deteccion_alzheimer_RestNet.ipynb">red_neuronal_cnn_deteccion_alzheimer_RestNet<a/>)</li>
+<li>Red Neuronal CNN (VGG16), ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/3_Red_neuronal_cnn_deteccion_alzheimer_VGG16.ipynb">Red_neuronal_cnn_deteccion_alzheimer_VGG16<a/>)</li>
+<li>Red Neuronal CNN (MobileNet), ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/4_Red_neuronal_cnn_deteccio%CC%81n_alzheimer_MobileNet.ipynb">Red_neuronal_cnn_deteccion_alzheimer_MobileNet<a/>)</li>
+<li>Red Neuronal CNN (Xception), ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/5_Red_neuronal_cnn_deteccio%CC%81n_alzheimer_Xception.ipynb">Red_neuronal_cnn_deteccion_alzheimer_Xception<a/>)</li>
+<li>Red Neuronal CNN (ResNet152), ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/6_Red_neuronal_cnn_deteccion_alzheimer_RestNet.ipynb">Red_neuronal_cnn_deteccion_alzheimer_RestNet<a/>)</li>
 </ol>    
 </div>
 
