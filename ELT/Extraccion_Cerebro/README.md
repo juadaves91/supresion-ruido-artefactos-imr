@@ -3,7 +3,7 @@
 <div>
 <h1>Deep Learning en el diagnostico de Alzheimer mediante Imágenes de Resonancia Magnética</h1>
 
-<h2>Extracción de cerebro en imagenes .NIFTI</h2>
+<h2>Extracción de cerebro en imagenes .NIFTI (R - Project)</h2>
 
 <h4>Requisitos</h4>
 <ul>
