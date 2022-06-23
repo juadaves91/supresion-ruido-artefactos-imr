@@ -37,7 +37,7 @@ alt="Proceso de extracción del cerebro en IMR"
 
 
 <h3>Ìndice</h3>
-<h4>Flujo de datos (ETL)</h4>  
+<h4>Notebooks Flujo de datos (ETL)</h4>  
 <div>
 <ol type="1">
 	<li>Extracción de datos, ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/1.%20Extraccion_Imagenes_Nifti_A_Jpg.ipynb)">Extraccion_Imagenes_Nifti_A_Jpg<a/>)</li>
@@ -47,6 +47,14 @@ alt="Proceso de extracción del cerebro en IMR"
 <li>Construcción modelos pre-entredados (Tensorflow - Keras), ver en ( <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/Helpers/prepocesamiento_helper.ipynb)">seleccion_modelo_keras_helper<a/>, <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/3.%20red_neuronal_cnn_deteccion_alzheimer_VGG16.ipynb">red_neuronal_cnn_deteccion_alzheimer_VGG16<a/>,  <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/4.%20red_neuronal_cnn_deteccion_alzheimer_MobileNet.ipynb">red_neuronal_cnn_deteccion_alzheimer_MobileNet<a/>,  <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/5.%20red_neuronal_cnn_deteccion_alzheimer_Xception.ipynb">red_neuronal_cnn_deteccion_alzheimer_Xception<a/>,  <a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/6.%20red_neuronal_cnn_deteccion_alzheimer_RestNet.ipynb">red_neuronal_cnn_deteccion_alzheimer_RestNet<a/>)</li>
 </ol>    
 </div>
+
+<h4>Notebooks Modelos pre-entredados (Tensorflow - Keras Redes Neuronales CNN)</h4>  
+<div>
+	<ol type="1">
+	    <li>Construcción modelos pre-entredados (Tensorflow - Keras), ver en (<a href="https://github.com/juadaves91/unir-tfm-alzheimer-diagnostic-deep-learning/blob/main/ELT/3.%20red_neuronal_cnn_deteccion_alzheimer_VGG16.ipynb">red_neuronal_cnn_deteccion_alzheimer_VGG16<a/>)</li>
+	</ol>    
+</div>
+
   
 <h4>Notebooks Auxiliares (Helpers)</h4>  
 <div>
