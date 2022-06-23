@@ -6,7 +6,7 @@
   <h1> Deep Learning en el diagnóstico de Alzheimer mediante Imágenes de Resonancia Magnética</h1>
   <h5><a href="https://www.unir.net/ingenieria/master-visual-analytics-big-data/">Master en Big Data & Visual Analytics</a></h5>
  
-  <h4>Juan David Escobar</h4>
+  <h4>Juan David Escobar Escobar</h4>
   <h4>14 Julio de 2022</h4>
   <h4>Medellin, Colombia</h4>
   <h4>Redes sociales: <a href="https://www.linkedin.com/in/jdescobar/">LinkedIn</a>,  <a href="https://www.linkedin.com/in/jdescobar/">Instagram</a>, <a href="https://twitter.com/davis1148">Twitter</a>
